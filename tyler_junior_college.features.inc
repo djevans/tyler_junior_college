@@ -26,6 +26,14 @@ function tyler_junior_college_node_info() {
       'title_label' => t('Title'),
       'help' => '',
     ),
+    'exhibit_slide' => array(
+      'name' => t('Exhibit Slide'),
+      'base' => 'node_content',
+      'description' => '',
+      'has_title' => '1',
+      'title_label' => t('Title'),
+      'help' => '',
+    ),
   );
   drupal_alter('node_info', $items);
   return $items;
