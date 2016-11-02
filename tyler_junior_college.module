@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Tyler Junior College feature.
+ */
+
+include_once 'tyler_junior_college.features.inc';
