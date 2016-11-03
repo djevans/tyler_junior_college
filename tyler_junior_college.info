@@ -46,5 +46,6 @@ features[variable][] = node_submitted_exhibit
 features[variable][] = node_submitted_exhibit_slide
 features[views_view][] = all_exhibits
 features[views_view][] = individual_exhibit
+features[views_view][] = sortable_exhibits
 features[views_view][] = sortable_slides
 project path = sites/all/modules/custom
